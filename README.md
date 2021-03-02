@@ -36,7 +36,8 @@
 
 ## ⭐ Stats:
 <center>
+  <p>
      <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarvalhos&theme=dark&layout=compact" />
      <img width="495px" align="right" src="https://github-readme-stats.vercel.app/api?username=juliocarvalhos&theme=dark&show_icons=true?count_private=true" />   
-  </tr>   
+  </p>   
 </center>
