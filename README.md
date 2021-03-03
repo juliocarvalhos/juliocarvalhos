@@ -38,7 +38,7 @@
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarvalhos&theme=dark&layout=compact?hide=CSS" /></td>
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarvalhos&theme=dark&layout=compact" /></td>
       <td><img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=juliocarvalhos&theme=dark&show_icons=true?count_private=true" /></td>
   </tr>   
 </table>
