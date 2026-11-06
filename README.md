@@ -26,7 +26,7 @@ I'm a backend-focused developer based in Rio de Janeiro, with 5+ years building 
 |---|---|---|
 | [**product-management-api**](https://github.com/juliocarvalhos/product-management-api) | Full stack app with JWT + refresh token, RBAC, token blacklist, rate limiting and async auditing through RabbitMQ. Dockerized, tested, CI on GitHub Actions. | FastAPI · PostgreSQL · Redis · RabbitMQ · Angular |
 | [**Invoice-api-lumi**](https://github.com/juliocarvalhos/Invoice-api-lumi) | REST API that extracts structured data from energy bill PDFs with an LLM, computes business metrics and persists the results. Deployed on Fly.io. | NestJS · TypeScript · PostgreSQL · Gemini |
-| [**dev_allocation**](https://github.com/juliocarvalhos/dev_allocation) | API that allocates developers to projects according to their tech stack. | Django · DRF · PostgreSQL |
+| [**dev_allocation_api**](https://github.com/juliocarvalhos/dev_allocation) | API that allocates developers to projects according to their tech stack. | Django · DRF · PostgreSQL |
 
 ## 🚀 Tech stack
 
